@@ -1,0 +1,80 @@
+
+body {
+   
+      margin-left: 10%;
+      margin-right:10%;
+
+    background-color: rgb(12, 92, 119);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+    
+}
+#survey-form{
+    background-color:powderblue;
+    max-width: 100%;
+    align-self: center;
+
+    
+    
+}
+
+
+input[type=text], select {
+  width: 95%;
+  padding: 1% 1.5%;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  align-items: center;
+  text-align-last: center;
+}
+
+p{
+    text-align: justify;
+}
+
+input[type=submit]:hover {
+  background-color: #45a049;
+}
+.title{
+  color : #fff;
+
+  left : 10%;
+}
+
+
+#title
+{
+    text-align : center;
+    color : white;
+}
+p{
+    text-align : center;
+    color : white;
+}
+input [type=submit] {
+    width: 95%; 
+    padding: 12px 20px;
+    margin: 8px 0;
+}
+
+textarea{
+    width : 95%;
+}
+
+input[submit]{
+    width: 95%;
+  padding: 1% 1.5%;
+  margin: 8px 0;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  align-items: center;
+  text-align-last: center;
+}
+
+** end of undefined **
+
